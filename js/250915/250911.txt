@@ -1,0 +1,10 @@
+250915 금일 과제
+1. 나머지가 1이 되는 수 찾기(87389) https://school.programmers.co.kr/learn/courses/30/lessons/87389
+2. 모의고사(42840) https://school.programmers.co.kr/learn/courses/30/lessons/42840
+
+>>> 풀이 30분
+
+250915 금일 수업에서 풀 것들
+0. (쉬운 문제로 ice breaking) 두 개 뽑아서 더하기 - https://school.programmers.co.kr/learn/courses/30/lessons/68644
+1. (자료구조:스택) 같은 숫자는 싫어 - https://school.programmers.co.kr/learn/courses/30/lessons/12906
+2. (자료구조:스택) 햄버거 만들기 - https://school.programmers.co.kr/learn/courses/30/lessons/133502

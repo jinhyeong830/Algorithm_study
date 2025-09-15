@@ -4,17 +4,18 @@
 
 // 빵-고기-야채-빵 1-2-3-1
 
-function solution(ingredient) {
-  var answer = 0;
-  const burgerStack = [];
-  const pattern = [1, 2, 3, 1];
-  for (let i = 0; i < ingredient.length; i++) {
-    if (ingredient[i] == pattern[0]) {
-      burgerStack.push(ingredient);
-    }
-  }
-  return answer;
-}
+// 미완성코드
+// function solution(ingredient) {
+//   var answer = 0;
+//   const burgerStack = [];
+//   const pattern = [1, 2, 3, 1];
+//   for (let i = 0; i < ingredient.length; i++) {
+//     if (ingredient[i] == pattern[0]) {
+//       burgerStack.push(ingredient);
+//     }
+//   }
+//   return answer;
+// }
 
 // GPT 추천 코드
 function solution(ingredient) {
