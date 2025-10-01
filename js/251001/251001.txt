@@ -1,4 +1,7 @@
-1. 
-2. 
-3. 
-4. 
+[Set 사용]
+1. https://school.programmers.co.kr/learn/courses/30/lessons/120888 중복된 문자 제거(easy)
+2. https://school.programmers.co.kr/learn/courses/30/lessons/120852 소인수분해 (소수 조건 찾기 어려움)
+
+[브루트포스]
+3. https://school.programmers.co.kr/learn/courses/30/lessons/131705 삼총사 (삼중포문)
+4. https://school.programmers.co.kr/learn/courses/30/lessons/42748  K번째수 (정렬 및 slice 등 메서드 바로알기)
