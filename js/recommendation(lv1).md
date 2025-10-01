@@ -1,8 +1,8 @@
-1. 모의고사 (패턴 반복, 기본 사고 훈련)
+1. 모의고사 (패턴 반복, 기본 사고 훈련) : 풀엇음
 
    - https://school.programmers.co.kr/learn/courses/30/lessons/42840
 
-2. 같은 숫자는 싫어 (스택 느낌 연습)
+2. 같은 숫자는 싫어 (스택 느낌 연습) : 0915
 
    - https://school.programmers.co.kr/learn/courses/30/lessons/12906
 
@@ -10,7 +10,7 @@
 
    - https://school.programmers.co.kr/learn/courses/30/lessons/81301
 
-4. K번째 수 (정렬, 슬라이싱)
+4. K번째 수 (정렬, 슬라이싱) : 1001
 
    - https://school.programmers.co.kr/learn/courses/30/lessons/42748
 
