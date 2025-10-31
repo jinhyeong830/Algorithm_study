@@ -36,8 +36,8 @@ f(n) = f(n-1) + f(n-2)
 */
 
 function fibonacci(n) {
-  if (n == 1 || n == 2) {
-    return n - 1;
+  if (n == 0 || n == 1) {
+    return n;
   } else {
     // 팩토리얼 같은 경우엔 사실n==1일 때만 처리되어도 괜찮지만
     // 피보나치는 이전 항을 두 개 사용하기 때문에,
@@ -47,5 +47,5 @@ function fibonacci(n) {
 }
 
 console.log("fibonacci 3rd number is", fibonacci(3));
-console.log("fibonacci 8t number is", fibonacci(8)); // 13
-console.log("fibonacci 10h number is", fibonacci(10)); //34
+console.log("fibonacci 7th number is", fibonacci(7)); // 13
+console.log("fibonacci 9th number is", fibonacci(9)); //34
